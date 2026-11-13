@@ -56,6 +56,13 @@ final class CustomizationModel: ObservableObject {
             previews.removeValue(forKey: pack.id)
         }
     }
+    func resetWallpaperGallery() async {
+        await run {
+            _ = try await store.resetWallpaperGallery()
+            packs = try await store.listWallpapers()
+            message = L("Wallpaper gallery reset. Respring to finish applying the change.")
+        }
+    }
     func open(_ identifier: String) {
         guard GXCustomizationAccess.openApplication(identifier) else {
             message = L("The app could not be opened. Open it manually."); return
@@ -109,6 +116,7 @@ struct WallpapersView: View {
     @State private var showsImport = false
     @State private var pendingApply: WallpaperPack?
     @State private var pendingDelete: WallpaperPack?
+    @State private var pendingReset = false
     @State private var presentationOwner = UUID()
     var body: some View {
         List {
@@ -140,13 +148,16 @@ struct WallpapersView: View {
             Section {
                 Button { model.open("com.apple.PosterBoard") } label: { Label(L("Open Wallpaper Gallery"), systemImage: "photo.on.rectangle") }
             }
+            Section {
+                Button(role: .destructive) { pendingReset = true } label: { Label(L("Reset Wallpaper Gallery"), systemImage: "trash") }
+            } footer: { Text(L("Clears the whole system wallpaper gallery, including wallpapers applied by other apps.")) }
         }
         .navigationTitle(L("Wallpaper Settings"))
         .navigationBarTitleDisplayMode(.inline)
         .disabled(model.busy)
         .toolbar { ToolbarItem(placement: .topBarTrailing) { if model.busy { ProgressView() } } }
         .task { await model.loadWallpapers() }
-        .onChange(of: showsImport || pendingApply != nil || pendingDelete != nil || model.message != nil, initial: true) { _, presenting in
+        .onChange(of: showsImport || pendingApply != nil || pendingDelete != nil || pendingReset || model.message != nil, initial: true) { _, presenting in
             model.setPresenting(presenting, owner: presentationOwner)
         }
         .onDisappear { if !showsImport { model.setPresenting(false, owner: presentationOwner) } }
@@ -167,6 +178,10 @@ struct WallpapersView: View {
             Button(L("Cancel"), role: .cancel) { pendingDelete = nil }
             Button(L("Delete"), role: .destructive) { if let pack = pendingDelete { Task { await model.deleteImportedWallpaper(pack) } }; pendingDelete = nil }
         } message: { Text(L("This only deletes the imported pack from GestaltX. Applied wallpapers will be kept.")) }
+        .alert(L("Reset the wallpaper gallery?"), isPresented: Binding(get: { pendingReset }, set: { if !$0 { pendingReset = false } })) {
+            Button(L("Cancel"), role: .cancel) { pendingReset = false }
+            Button(L("Reset"), role: .destructive) { Task { await model.resetWallpaperGallery() }; pendingReset = false }
+        } message: { Text(L("This removes every wallpaper in the gallery, including stock collections and wallpapers applied by other apps. Stock collections come back after a respring. Packs imported into GestaltX are kept, but will no longer be marked as applied.")) }
         .alert(L("GestaltX"), isPresented: Binding(get: { model.message != nil }, set: { if !$0 { model.message = nil } })) {
             Button(L("OK"), role: .cancel) { model.message = nil }
         } message: { Text(model.message ?? "") }

@@ -27648,6 +27648,102 @@
           }
         }
       }
+    },
+    "Reset Wallpaper Gallery": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset Wallpaper Gallery"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重置壁纸图库"
+          }
+        }
+      }
+    },
+    "Reset the wallpaper gallery?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset the wallpaper gallery?"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重置壁纸图库？"
+          }
+        }
+      }
+    },
+    "Reset": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重置"
+          }
+        }
+      }
+    },
+    "Clears the whole system wallpaper gallery, including wallpapers applied by other apps.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clears the whole system wallpaper gallery, including wallpapers applied by other apps."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "清空系统壁纸图库，包括其他应用安装的壁纸。"
+          }
+        }
+      }
+    },
+    "This removes every wallpaper in the gallery, including stock collections and wallpapers applied by other apps. Stock collections come back after a respring. Packs imported into GestaltX are kept, but will no longer be marked as applied.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This removes every wallpaper in the gallery, including stock collections and wallpapers applied by other apps. Stock collections come back after a respring. Packs imported into GestaltX are kept, but will no longer be marked as applied."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这会移除图库中的全部壁纸，包括系统自带合集和其他应用安装的壁纸。注销后系统自带合集会自动恢复。GestaltX 里导入的壁纸包会保留，但不会再标记为已应用。"
+          }
+        }
+      }
+    },
+    "Wallpaper gallery reset. Respring to finish applying the change.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wallpaper gallery reset. Respring to finish applying the change."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "壁纸图库已重置。注销一次后生效。"
+          }
+        }
+      }
     }
   },
   "version": "1.0"

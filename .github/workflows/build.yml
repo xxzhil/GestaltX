@@ -73,7 +73,7 @@ jobs:
           rustup target add aarch64-apple-ios aarch64-apple-ios-sim
           command -v nasm >/dev/null || brew install nasm
           cd Native/DeviceConsole
-          ./build-xcframework.sh
+          bash ./build-xcframework.sh
 
       - name: Build IPA
         id: build

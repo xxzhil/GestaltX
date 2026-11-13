@@ -30,6 +30,12 @@ Import Wallpaper	导入壁纸
 No Wallpapers	暂无壁纸
 This only deletes the imported pack from GestaltX. Applied wallpapers will be kept.	只从 GestaltX 删除导入包，已应用的壁纸会保留。
 Open Wallpaper Gallery	打开壁纸图库
+Reset Wallpaper Gallery	重置壁纸图库
+Reset the wallpaper gallery?	重置壁纸图库？
+Reset	重置
+Clears the whole system wallpaper gallery, including wallpapers applied by other apps.	清空系统壁纸图库，包括其他应用安装的壁纸。
+This removes every wallpaper in the gallery, including stock collections and wallpapers applied by other apps. Stock collections come back after a respring. Packs imported into GestaltX are kept, but will no longer be marked as applied.	这会移除图库中的全部壁纸，包括系统自带合集和其他应用安装的壁纸。注销后系统自带合集会自动恢复。GestaltX 里导入的壁纸包会保留，但不会再标记为已应用。
+Wallpaper gallery reset. Respring to finish applying the change.	壁纸图库已重置。注销一次后生效。
 Delete the imported wallpaper pack?	删除导入的壁纸包？
 Some files could not be restored. The backup has been kept.	部分文件未能恢复，备份已保留。
 System Settings	系统设置

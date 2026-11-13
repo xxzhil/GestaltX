@@ -430,5 +430,11 @@
   "This image could not be used. Choose another image.": "این تصویر قابل استفاده نیست. تصویر دیگری انتخاب کنید.",
   "Save Current Launch Image": "ذخیره تصویر آغاز فعلی",
   "Allow GestaltX to add photos in Settings, then try again.": "در تنظیمات اجازه افزودن عکس را به GestaltX بدهید و دوباره امتحان کنید.",
-  "The launch image was saved to Photos.": "تصویر آغاز در عکس‌ها ذخیره شد."
+  "The launch image was saved to Photos.": "تصویر آغاز در عکس‌ها ذخیره شد.",
+  "Reset Wallpaper Gallery": "بازنشانی گالری تصاویر زمینه",
+  "Reset the wallpaper gallery?": "گالری تصاویر زمینه بازنشانی شود؟",
+  "Reset": "بازنشانی",
+  "Clears the whole system wallpaper gallery, including wallpapers applied by other apps.": "کل گالری تصاویر زمینه سیستم، از جمله تصاویر اعمال‌شده توسط برنامه‌های دیگر، پاک می‌شود.",
+  "This removes every wallpaper in the gallery, including stock collections and wallpapers applied by other apps. Stock collections come back after a respring. Packs imported into GestaltX are kept, but will no longer be marked as applied.": "با این کار همه تصاویر زمینه گالری، از جمله مجموعه‌های پیش‌فرض و تصاویر اعمال‌شده توسط برنامه‌های دیگر، حذف می‌شوند. مجموعه‌های پیش‌فرض پس از ریسپرینگ بازمی‌گردند. بسته‌های واردشده به GestaltX باقی می‌مانند اما دیگر به‌عنوان اعمال‌شده نشان داده نمی‌شوند.",
+  "Wallpaper gallery reset. Respring to finish applying the change.": "گالری تصاویر زمینه بازنشانی شد. برای اعمال تغییر ریسپرینگ کنید."
 }

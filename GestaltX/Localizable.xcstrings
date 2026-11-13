@@ -1793,6 +1793,390 @@
         }
       }
     },
+    "Reset Wallpaper Gallery": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset Wallpaper Gallery"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重置壁纸图库"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restablecer la galería de fondos"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "بازنشانی گالری تصاویر زمینه"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "壁紙ギャラリーをリセット"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "배경화면 갤러리 재설정"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сбросить галерею обоев"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Đặt lại bộ sưu tập hình nền"
+          }
+        },
+        "zh-Hant-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重置壁紙圖庫"
+          }
+        },
+        "zh-Hant-TW": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重置壁紙圖庫"
+          }
+        }
+      }
+    },
+    "Reset the wallpaper gallery?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset the wallpaper gallery?"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重置壁纸图库？"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¿Restablecer la galería de fondos?"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "گالری تصاویر زمینه بازنشانی شود؟"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "壁紙ギャラリーをリセットしますか？"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "배경화면 갤러리를 재설정할까요?"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сбросить галерею обоев?"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Đặt lại bộ sưu tập hình nền?"
+          }
+        },
+        "zh-Hant-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重置壁紙圖庫？"
+          }
+        },
+        "zh-Hant-TW": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重置壁紙圖庫？"
+          }
+        }
+      }
+    },
+    "Reset": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重置"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restablecer"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "بازنشانی"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "リセット"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "재설정"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сбросить"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Đặt lại"
+          }
+        },
+        "zh-Hant-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重置"
+          }
+        },
+        "zh-Hant-TW": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重置"
+          }
+        }
+      }
+    },
+    "Clears the whole system wallpaper gallery, including wallpapers applied by other apps.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clears the whole system wallpaper gallery, including wallpapers applied by other apps."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "清空系统壁纸图库，包括其他应用安装的壁纸。"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Borra toda la galería de fondos del sistema, incluidos los fondos aplicados por otras apps."
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "کل گالری تصاویر زمینه سیستم، از جمله تصاویر اعمال‌شده توسط برنامه‌های دیگر، پاک می‌شود."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "他のアプリで適用された壁紙を含め、システムの壁紙ギャラリー全体を消去します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다른 앱에서 적용한 배경화면을 포함해 시스템 배경화면 갤러리 전체를 지웁니다."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Очищает всю системную галерею обоев, включая обои, установленные другими приложениями."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Xóa toàn bộ bộ sưu tập hình nền hệ thống, bao gồm cả hình nền do ứng dụng khác áp dụng."
+          }
+        },
+        "zh-Hant-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "清空系統壁紙圖庫，包括其他應用安裝的壁紙。"
+          }
+        },
+        "zh-Hant-TW": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "清空系統壁紙圖庫，包括其他應用安裝的壁紙。"
+          }
+        }
+      }
+    },
+    "This removes every wallpaper in the gallery, including stock collections and wallpapers applied by other apps. Stock collections come back after a respring. Packs imported into GestaltX are kept, but will no longer be marked as applied.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This removes every wallpaper in the gallery, including stock collections and wallpapers applied by other apps. Stock collections come back after a respring. Packs imported into GestaltX are kept, but will no longer be marked as applied."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这会移除图库中的全部壁纸，包括系统自带合集和其他应用安装的壁纸。注销后系统自带合集会自动恢复。GestaltX 里导入的壁纸包会保留，但不会再标记为已应用。"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esto elimina todos los fondos de la galería, incluidos los de serie y los aplicados por otras apps. Los de serie vuelven tras un respring. Los paquetes importados en GestaltX se conservan, pero ya no aparecerán como aplicados."
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "با این کار همه تصاویر زمینه گالری، از جمله مجموعه‌های پیش‌فرض و تصاویر اعمال‌شده توسط برنامه‌های دیگر، حذف می‌شوند. مجموعه‌های پیش‌فرض پس از ریسپرینگ بازمی‌گردند. بسته‌های واردشده به GestaltX باقی می‌مانند اما دیگر به‌عنوان اعمال‌شده نشان داده نمی‌شوند."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ギャラリー内のすべての壁紙（標準コレクションと他のアプリで適用された壁紙を含む）が削除されます。標準コレクションはリスプリング後に復元されます。GestaltXにインポートしたパックは保持されますが、「適用済み」表示は解除されます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "기본 컬렉션과 다른 앱에서 적용한 배경화면을 포함해 갤러리의 모든 배경화면이 제거됩니다. 기본 컬렉션은 리스프링 후 복원됩니다. GestaltX로 가져온 팩은 유지되지만 더 이상 적용됨으로 표시되지 않습니다."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Будут удалены все обои в галерее, включая стандартные коллекции и обои, установленные другими приложениями. Стандартные коллекции восстановятся после респринга. Импортированные в GestaltX пакеты сохранятся, но перестанут отмечаться как установленные."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thao tác này xóa mọi hình nền trong bộ sưu tập, gồm cả bộ sưu tập mặc định và hình nền do ứng dụng khác áp dụng. Bộ sưu tập mặc định sẽ trở lại sau khi respring. Các gói đã nhập vào GestaltX được giữ lại nhưng không còn đánh dấu là đã áp dụng."
+          }
+        },
+        "zh-Hant-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "這會移除圖庫中的全部壁紙，包括系統自帶合集和其他應用安裝的壁紙。註銷後系統自帶合集會自動恢復。GestaltX 里導入的壁紙包會保留，但不會再標記為已應用。"
+          }
+        },
+        "zh-Hant-TW": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "這會移除圖庫中的全部壁紙，包括系統自帶合集和其他應用安裝的壁紙。註銷後系統自帶合集會自動恢復。GestaltX 里導入的壁紙包會保留，但不會再標記為已應用。"
+          }
+        }
+      }
+    },
+    "Wallpaper gallery reset. Respring to finish applying the change.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wallpaper gallery reset. Respring to finish applying the change."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "壁纸图库已重置。注销一次后生效。"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Galería de fondos restablecida. Haz respring para completar el cambio."
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "گالری تصاویر زمینه بازنشانی شد. برای اعمال تغییر ریسپرینگ کنید."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "壁紙ギャラリーをリセットしました。リスプリングすると変更が反映されます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "배경화면 갤러리가 재설정되었습니다. 리스프링하면 변경이 적용됩니다."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Галерея обоев сброшена. Сделайте респринг, чтобы применить изменения."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Đã đặt lại bộ sưu tập hình nền. Respring để hoàn tất thay đổi."
+          }
+        },
+        "zh-Hant-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "壁紙圖庫已重置。註銷一次後生效。"
+          }
+        },
+        "zh-Hant-TW": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "壁紙圖庫已重置。註銷一次後生效。"
+          }
+        }
+      }
+    },
     "Delete the imported wallpaper pack?": {
       "localizations": {
         "en": {
@@ -27645,102 +28029,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "鎖定畫面文字已更新。"
-          }
-        }
-      }
-    },
-    "Reset Wallpaper Gallery": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Reset Wallpaper Gallery"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "重置壁纸图库"
-          }
-        }
-      }
-    },
-    "Reset the wallpaper gallery?": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Reset the wallpaper gallery?"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "重置壁纸图库？"
-          }
-        }
-      }
-    },
-    "Reset": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Reset"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "重置"
-          }
-        }
-      }
-    },
-    "Clears the whole system wallpaper gallery, including wallpapers applied by other apps.": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Clears the whole system wallpaper gallery, including wallpapers applied by other apps."
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "清空系统壁纸图库，包括其他应用安装的壁纸。"
-          }
-        }
-      }
-    },
-    "This removes every wallpaper in the gallery, including stock collections and wallpapers applied by other apps. Stock collections come back after a respring. Packs imported into GestaltX are kept, but will no longer be marked as applied.": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "This removes every wallpaper in the gallery, including stock collections and wallpapers applied by other apps. Stock collections come back after a respring. Packs imported into GestaltX are kept, but will no longer be marked as applied."
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "这会移除图库中的全部壁纸，包括系统自带合集和其他应用安装的壁纸。注销后系统自带合集会自动恢复。GestaltX 里导入的壁纸包会保留，但不会再标记为已应用。"
-          }
-        }
-      }
-    },
-    "Wallpaper gallery reset. Respring to finish applying the change.": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Wallpaper gallery reset. Respring to finish applying the change."
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "壁纸图库已重置。注销一次后生效。"
           }
         }
       }

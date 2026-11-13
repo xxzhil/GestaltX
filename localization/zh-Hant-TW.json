@@ -430,5 +430,11 @@
   "This image could not be used. Choose another image.": "無法使用這張圖片，請選擇其他圖片。",
   "Save Current Launch Image": "儲存目前的啟動畫面",
   "Allow GestaltX to add photos in Settings, then try again.": "請在「設定」中允許 GestaltX 加入照片後再試一次。",
-  "The launch image was saved to Photos.": "啟動畫面已儲存至「照片」。"
+  "The launch image was saved to Photos.": "啟動畫面已儲存至「照片」。",
+  "Reset Wallpaper Gallery": "重置壁紙圖庫",
+  "Reset the wallpaper gallery?": "重置壁紙圖庫？",
+  "Reset": "重置",
+  "Clears the whole system wallpaper gallery, including wallpapers applied by other apps.": "清空系統壁紙圖庫，包括其他應用安裝的壁紙。",
+  "This removes every wallpaper in the gallery, including stock collections and wallpapers applied by other apps. Stock collections come back after a respring. Packs imported into GestaltX are kept, but will no longer be marked as applied.": "這會移除圖庫中的全部壁紙，包括系統自帶合集和其他應用安裝的壁紙。註銷後系統自帶合集會自動恢復。GestaltX 里導入的壁紙包會保留，但不會再標記為已應用。",
+  "Wallpaper gallery reset. Respring to finish applying the change.": "壁紙圖庫已重置。註銷一次後生效。"
 }

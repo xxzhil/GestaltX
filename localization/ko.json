@@ -430,5 +430,11 @@
   "This image could not be used. Choose another image.": "이 이미지를 사용할 수 없습니다. 다른 이미지를 선택하세요.",
   "Save Current Launch Image": "현재 시작 이미지 저장",
   "Allow GestaltX to add photos in Settings, then try again.": "설정에서 GestaltX의 사진 추가를 허용한 후 다시 시도하세요.",
-  "The launch image was saved to Photos.": "시작 이미지를 사진에 저장했습니다."
+  "The launch image was saved to Photos.": "시작 이미지를 사진에 저장했습니다.",
+  "Reset Wallpaper Gallery": "배경화면 갤러리 재설정",
+  "Reset the wallpaper gallery?": "배경화면 갤러리를 재설정할까요?",
+  "Reset": "재설정",
+  "Clears the whole system wallpaper gallery, including wallpapers applied by other apps.": "다른 앱에서 적용한 배경화면을 포함해 시스템 배경화면 갤러리 전체를 지웁니다.",
+  "This removes every wallpaper in the gallery, including stock collections and wallpapers applied by other apps. Stock collections come back after a respring. Packs imported into GestaltX are kept, but will no longer be marked as applied.": "기본 컬렉션과 다른 앱에서 적용한 배경화면을 포함해 갤러리의 모든 배경화면이 제거됩니다. 기본 컬렉션은 리스프링 후 복원됩니다. GestaltX로 가져온 팩은 유지되지만 더 이상 적용됨으로 표시되지 않습니다.",
+  "Wallpaper gallery reset. Respring to finish applying the change.": "배경화면 갤러리가 재설정되었습니다. 리스프링하면 변경이 적용됩니다."
 }

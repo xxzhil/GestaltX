@@ -430,5 +430,11 @@
   "This image could not be used. Choose another image.": "Không thể dùng ảnh này. Hãy chọn ảnh khác.",
   "Save Current Launch Image": "Lưu ảnh khởi động hiện tại",
   "Allow GestaltX to add photos in Settings, then try again.": "Cho phép GestaltX thêm ảnh trong Cài đặt rồi thử lại.",
-  "The launch image was saved to Photos.": "Đã lưu ảnh khởi động vào Ảnh."
+  "The launch image was saved to Photos.": "Đã lưu ảnh khởi động vào Ảnh.",
+  "Reset Wallpaper Gallery": "Đặt lại bộ sưu tập hình nền",
+  "Reset the wallpaper gallery?": "Đặt lại bộ sưu tập hình nền?",
+  "Reset": "Đặt lại",
+  "Clears the whole system wallpaper gallery, including wallpapers applied by other apps.": "Xóa toàn bộ bộ sưu tập hình nền hệ thống, bao gồm cả hình nền do ứng dụng khác áp dụng.",
+  "This removes every wallpaper in the gallery, including stock collections and wallpapers applied by other apps. Stock collections come back after a respring. Packs imported into GestaltX are kept, but will no longer be marked as applied.": "Thao tác này xóa mọi hình nền trong bộ sưu tập, gồm cả bộ sưu tập mặc định và hình nền do ứng dụng khác áp dụng. Bộ sưu tập mặc định sẽ trở lại sau khi respring. Các gói đã nhập vào GestaltX được giữ lại nhưng không còn đánh dấu là đã áp dụng.",
+  "Wallpaper gallery reset. Respring to finish applying the change.": "Đã đặt lại bộ sưu tập hình nền. Respring để hoàn tất thay đổi."
 }

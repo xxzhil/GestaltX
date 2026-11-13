@@ -430,5 +430,11 @@
   "This image could not be used. Choose another image.": "Не удалось использовать это изображение. Выберите другое.",
   "Save Current Launch Image": "Сохранить текущее изображение запуска",
   "Allow GestaltX to add photos in Settings, then try again.": "Разрешите GestaltX добавлять фото в Настройках и повторите попытку.",
-  "The launch image was saved to Photos.": "Изображение запуска сохранено в Фото."
+  "The launch image was saved to Photos.": "Изображение запуска сохранено в Фото.",
+  "Reset Wallpaper Gallery": "Сбросить галерею обоев",
+  "Reset the wallpaper gallery?": "Сбросить галерею обоев?",
+  "Reset": "Сбросить",
+  "Clears the whole system wallpaper gallery, including wallpapers applied by other apps.": "Очищает всю системную галерею обоев, включая обои, установленные другими приложениями.",
+  "This removes every wallpaper in the gallery, including stock collections and wallpapers applied by other apps. Stock collections come back after a respring. Packs imported into GestaltX are kept, but will no longer be marked as applied.": "Будут удалены все обои в галерее, включая стандартные коллекции и обои, установленные другими приложениями. Стандартные коллекции восстановятся после респринга. Импортированные в GestaltX пакеты сохранятся, но перестанут отмечаться как установленные.",
+  "Wallpaper gallery reset. Respring to finish applying the change.": "Галерея обоев сброшена. Сделайте респринг, чтобы применить изменения."
 }

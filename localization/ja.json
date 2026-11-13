@@ -430,5 +430,11 @@
   "Your lock screen text": "ロック画面のテキストを入力",
   "Save Current Launch Image": "現在の起動画面を保存",
   "Allow GestaltX to add photos in Settings, then try again.": "「設定」でGestaltXによる写真の追加を許可してから、もう一度お試しください。",
-  "The launch image was saved to Photos.": "起動画面を「写真」に保存しました。"
+  "The launch image was saved to Photos.": "起動画面を「写真」に保存しました。",
+  "Reset Wallpaper Gallery": "壁紙ギャラリーをリセット",
+  "Reset the wallpaper gallery?": "壁紙ギャラリーをリセットしますか？",
+  "Reset": "リセット",
+  "Clears the whole system wallpaper gallery, including wallpapers applied by other apps.": "他のアプリで適用された壁紙を含め、システムの壁紙ギャラリー全体を消去します。",
+  "This removes every wallpaper in the gallery, including stock collections and wallpapers applied by other apps. Stock collections come back after a respring. Packs imported into GestaltX are kept, but will no longer be marked as applied.": "ギャラリー内のすべての壁紙（標準コレクションと他のアプリで適用された壁紙を含む）が削除されます。標準コレクションはリスプリング後に復元されます。GestaltXにインポートしたパックは保持されますが、「適用済み」表示は解除されます。",
+  "Wallpaper gallery reset. Respring to finish applying the change.": "壁紙ギャラリーをリセットしました。リスプリングすると変更が反映されます。"
 }

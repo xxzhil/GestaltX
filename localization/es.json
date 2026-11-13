@@ -430,5 +430,11 @@
   "This image could not be used. Choose another image.": "No se puede usar esta imagen. Elige otra.",
   "Save Current Launch Image": "Guardar imagen de inicio actual",
   "Allow GestaltX to add photos in Settings, then try again.": "Permite a GestaltX añadir fotos en Ajustes e inténtalo de nuevo.",
-  "The launch image was saved to Photos.": "La imagen de inicio se ha guardado en Fotos."
+  "The launch image was saved to Photos.": "La imagen de inicio se ha guardado en Fotos.",
+  "Reset Wallpaper Gallery": "Restablecer la galería de fondos",
+  "Reset the wallpaper gallery?": "¿Restablecer la galería de fondos?",
+  "Reset": "Restablecer",
+  "Clears the whole system wallpaper gallery, including wallpapers applied by other apps.": "Borra toda la galería de fondos del sistema, incluidos los fondos aplicados por otras apps.",
+  "This removes every wallpaper in the gallery, including stock collections and wallpapers applied by other apps. Stock collections come back after a respring. Packs imported into GestaltX are kept, but will no longer be marked as applied.": "Esto elimina todos los fondos de la galería, incluidos los de serie y los aplicados por otras apps. Los de serie vuelven tras un respring. Los paquetes importados en GestaltX se conservan, pero ya no aparecerán como aplicados.",
+  "Wallpaper gallery reset. Respring to finish applying the change.": "Galería de fondos restablecida. Haz respring para completar el cambio."
 }
